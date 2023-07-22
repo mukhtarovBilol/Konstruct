@@ -277,6 +277,7 @@ span{
 
 .story__image{
     display: flex;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
@@ -292,21 +293,21 @@ span{
     }
 }
 
-@media(max-width: 460px){
+/* @media(max-width: 460px){
     .plan{
       max-width: 120px;
       width: 100%;
 
     }
-}
+} */
 
-@media(max-width: 360px){
+/* @media(max-width: 360px){
     .plan{
       max-width: 80px;
       width: 100%;
 
     }
-}
+} */
 
 .story{
     margin-bottom: 118px;
