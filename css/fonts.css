@@ -1,0 +1,27 @@
+@font-face{
+    src: url(../fonts/BebasNeue-Regular.ttf);
+    font-family: "BebasNeue";
+    font-weight: 400;
+}
+
+@font-face{
+    src: url(../fonts/Open_Sans/static/OpenSans_Condensed-Bold.ttf);
+    font-family: "OpenSans";
+    font-weight: 700;
+}
+
+@font-face{
+    src: url(../fonts/Open_Sans/static/OpenSans_Condensed-Regular.ttf);
+    font-family: "OpenSans";
+    font-weight: 400;
+}
+
+@font-face{
+    src: url(../fonts/Open_Sans/static/OpenSans_Condensed-SemiBold.ttf);
+    font-family: "OpenSans";
+    font-weight: 600;
+}
+
+
+
+
